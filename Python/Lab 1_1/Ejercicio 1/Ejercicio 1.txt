@@ -1,0 +1,16 @@
+Ejercicio 1: Adivina el Número
+Objetivo: Introducir bucles (while) y la lógica condicional.
+
+1. Escribe un programa que genere un número aleatorio entre 1 y 10.
+2. Pide al usuario que adivine el número, y continúa preguntando hasta que 10 acierte.
+3. Da retroalimentación indicando si el número es demasiado alto o bajo en cada intento.
+
+
+Ejemplo de salida:
+Adivina el número (entre 1 y 10): 5
+Demasiado bajo, intenta de nuevo.
+Adivina el número (entre 1 y 10): 7
+¡Correcto! EI número es 7.
+
+
+Nota: Usa import random y random.randint(1, 10) para generar el número aleatorio.

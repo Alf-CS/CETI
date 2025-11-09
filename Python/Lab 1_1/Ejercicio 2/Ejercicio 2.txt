@@ -1,0 +1,12 @@
+Ejercicio 2: Crear un Diccionario de Contactos
+Objetivo: Introducir el uso de diccionarios y manejo básico de datos.
+
+1. Escribe un programa que permita al usuario agregar, buscar y eliminar contactos de una agenda.
+2. Cada contacto debe tener un nombre y un número de teléfono.
+
+Ejemplo de salida:
+1. Agregar contacto
+2. Buscar contacto
+3. Eliminar contacto
+4. Mostrar todos los contactos
+5. Salir
