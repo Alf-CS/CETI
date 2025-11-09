@@ -3,3 +3,6 @@ key.key
 
 # archivo passwords.txt que guarda el ejercicio de contraseñas.
 passwords.txt
+
+# directorio obsidian
+.obsidian
