@@ -6,3 +6,7 @@ passwords.txt
 
 # directorio obsidian
 .obsidian
+
+#pytest
+.pytest_cache
+__pycache__
